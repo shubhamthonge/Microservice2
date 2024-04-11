@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class Microservice1Application {
+public class Microservice1Application { // push the code 
 
 	public static void main(String[] args) {
 		SpringApplication.run(Microservice1Application.class, args);
